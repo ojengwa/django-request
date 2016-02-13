@@ -25,3 +25,7 @@ Detailed documentation
 ----------------------
 
 For a detailed documentation of django-request, or how to install django-request please see: [django-request](https://django-request.readthedocs.org/en/latest/) or the docs/ directory.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ojengwa/django-request/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
